@@ -34,7 +34,10 @@
   font-weight: bold;
 }
 #github {
-  color: #333;
+  color: #337ab7;
+}
+#repositorioweb {
+  color: #fff;
 }
 #shopify {
   color: #96bf48;
