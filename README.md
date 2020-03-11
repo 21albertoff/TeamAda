@@ -1,4 +1,4 @@
-# 21albertoff.GitHub.io/TeamAda
+# https://21albertoff.github.io/TeamAda
 Este sitio está muy atrasado para una actualización...
 😵
 ✨
