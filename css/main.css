@@ -66,19 +66,23 @@ background-color: #22d9c7;
 
 #icongithub:hover{
  background-color:#333;
- border: 1px;
+ border-radius: 200px;
 }
 
 #iconual:hover{
  background-color:#333;
+ border-radius: 200px;
 }
 
 #iconazure:hover{
  background-color:#3374b7;
+ border-radius: 200px;
+
 }
 
 #icongit:hover{
  background-color:#cc3800;
+ border-radius: 200px;
 }
 
 #jumbo1 img{
