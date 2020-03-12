@@ -1,9 +1,9 @@
 body{
-background-color: #337ab7;
+background-color: #22d9c7;
 }
 #jumbo1 {
   text-align: left;
-  background-color: #337ab7;
+  background-image: url("https://ih1.redbubble.net/image.758037853.7860/flat,1000x1000,075,f.u1.jpg");
   background-repeat: repeat-x;
   background-size: 70% 100%;
   margin: 0px;
@@ -17,10 +17,15 @@ background-color: #337ab7;
   text-decoration: none;
   font-weight: bold;
 }
+
+.navbar a{
+	text-decoration: none;
+}
 #jumbo1 h1 {
   color: #fff;o
   text-decoration: none;
   font-weight: bold;
+  text-align: center;
 }
 #jumbo2 {
   padding-top: 0px;
@@ -50,21 +55,33 @@ background-color: #337ab7;
 }
 
 #icongithub:hover{
- #333
+ background-color:#333;
 }
 
 #iconual:hover{
- #333
+ background-color:#333;
 }
 
 #iconazure:hover{
- #3374b7
+ background-color:#3374b7;
 }
 
 #icongit:hover{
- #cc3800
+ background-color:#cc3800;
 }
 
+#jumbo1 img{
+  width: 150px;
+  height: auto;
+  vertical-align: middle;
+  border: 10px;
+  border-radius: 130px;
+}
+
+#jumbo1 p{
+    margin-top: 10px;
+	text-align: center;
+}
 .jumbotron hr {
   width: 75%;
   height: 3px;
@@ -91,7 +108,7 @@ background-color: #337ab7;
   }
   #jumbo2 p {
     margin-top: 15px;
-    text-align: center;
+    text-align: left;
   }
   .navbar-right {
     visibility: hidden;
