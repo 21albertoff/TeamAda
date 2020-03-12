@@ -65,6 +65,14 @@ background-color: #22d9c7;
   color: #1da1f2;
 }
 
+.fa:hover{
+ background-color:#333;
+}
+
+#fa:hover{
+ background-color:#333;
+}
+
 #icongithub:hover{
  background-color:#333;
 }
