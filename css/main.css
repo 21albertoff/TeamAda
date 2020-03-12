@@ -1,9 +1,9 @@
 body{
-background-color: #feb6c1;
+background-color: #337ab7;
 }
 #jumbo1 {
   text-align: left;
-  background-image: url('../images/gradient2.jpg');
+  background-color: #337ab7;
   background-repeat: repeat-x;
   background-size: 70% 100%;
   margin: 0px;
@@ -18,7 +18,7 @@ background-color: #feb6c1;
   font-weight: bold;
 }
 #jumbo1 h1 {
-  color: #fff;
+  color: #fff;o
   text-decoration: none;
   font-weight: bold;
 }
@@ -48,6 +48,23 @@ background-color: #feb6c1;
 #wwdc {
   color: #1da1f2;
 }
+
+#icongithub:hover{
+ #333
+}
+
+#iconual:hover{
+ #333
+}
+
+#iconazure:hover{
+ #3374b7
+}
+
+#icongit:hover{
+ #cc3800
+}
+
 .jumbotron hr {
   width: 75%;
   height: 3px;
@@ -61,7 +78,7 @@ background-color: #feb6c1;
   width: 260px;
   height: auto;
   vertical-align: middle;
-  border: 10px solid #eee;
+  border: 6px solid #337ab7;
   border-radius: 130px;
 }
 .jumbotron p {
