@@ -64,23 +64,23 @@ background-color: #22d9c7;
   color: #1da1f2;
 }
 
-.icongithub:hover{
+#icongithub:hover{
  background-color:#333;
  border-radius: 200px;
 }
 
-.iconual:hover{
+#iconual:hover{
  background-color:#333;
  border-radius: 200px;
 }
 
-.iconazure:hover{
+#iconazure:hover{
  background-color:#3374b7;
  border-radius: 200px;
 
 }
 
-.icongit:hover{
+#icongit:hover{
  background-color:#cc3800;
  border-radius: 200px;
 }
